@@ -1,0 +1,80 @@
+2018-09-18T17:04:02|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:04:05|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:04:37|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:04:38|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:04:40|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:04:41|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:04:42|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:04:42|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:04:49|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:04:50|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:04:52|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:04:53|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:04:55|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:05:00|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:05:00|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+
+2018-09-18T17:05:00|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\logged_quantity.py", line 241, in update_value
+    self.hardware_set_func(self.val)
+TypeError: change_shutter() takes 1 positional argument but 2 were given
+

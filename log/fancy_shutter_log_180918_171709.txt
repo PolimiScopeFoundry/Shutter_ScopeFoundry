@@ -1,0 +1,9 @@
+2018-09-18T17:17:10|CRITICAL|root|Unhandled exception:Traceback (most recent call last):
+  File "C:\Users\user\eclipse-workspace\Shutter\fancy_shutter.py", line 39, in <module>
+    app = FancyMicroscopeApp(sys.argv)
+  File "C:\Users\user\Anaconda3\lib\site-packages\ScopeFoundry\base_app.py", line 332, in __init__
+    self.setup()
+  File "C:\Users\user\eclipse-workspace\Shutter\fancy_shutter.py", line 16, in setup
+    from Shutter.shutter_hw import ShutterHW
+ModuleNotFoundError: No module named 'Shutter'
+
