@@ -10,7 +10,7 @@ This script creates the hardware class for the shutter, that manages the GUI.
 
 
 from ScopeFoundry import HardwareComponent 
-from shutter_device import ShutterDevice
+from Shutter_ScopeFoundry.shutter_device import ShutterDevice
 
 class ShutterHW(HardwareComponent):
     """
